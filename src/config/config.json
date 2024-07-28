@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "myTrustWorks",
+    "base_url": "https://my-trust-works.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "38",
+    "logo_text": "myTrustWorks"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/waitlist"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "At myTrustWorks, we connect freelancers with clients seeking high-quality services. Trust us to help you find the right talent for your project.",
+    "copyright": "© 2024 myTrustWorks. All rights reserved."
+  },
+
+  "metadata": {
+    "meta_author": "myTrustWorks Team",
+    "meta_image": "/images/logo.png",
+    "meta_description": "myTrustWorks is your trusted partner for finding top freelancers and high-quality services. Join us and discover a better way to work."
+  }
+}
