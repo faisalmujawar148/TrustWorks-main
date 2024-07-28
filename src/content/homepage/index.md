@@ -1,7 +1,7 @@
 ---
 banner:
   title: Trustworthy Freelancing Platform for Clients and Freelancers
-  content: TrustWorks prioritizes trust and transparency. Say goodbye to scams and hidden fees. <br> We charge only 2.5% after project completion and satisfaction.
+  content: TrustWorks prioritizes trust and transparency. Say goodbye to scams and hidden fees. <br> We charge only <u>**2.5%**</u> after project completion and satisfaction.
   image: /images/hero.svg
   button:
     label: "Waitlist"
@@ -46,7 +46,6 @@ services:
     content: "Our platform offers the most advanced digital marketing and IT services. Connect with top freelancers and achieve your project goals with ease and efficiency."
     images:
       - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
@@ -57,9 +56,8 @@ services:
   - title: "Experienced and Skilled Team"
     content: "Our platform connects you with a team of experienced and skilled freelancers, ready to tackle any project. Benefit from their expertise and achieve your business objectives."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/service-slide-4.png"
       - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
     button:
       enable: true
       label: Check it out
@@ -68,9 +66,8 @@ services:
   - title: "Standing Out from the Competition"
     content: "Our unique features and commitment to quality set us apart from other platforms. Experience the difference with our trust-based, user-friendly freelancing platform."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/service-slide-5.png"
+      - "/images/service-slide-6.png"
     button:
       enable: true
       label: Check it out

@@ -12,14 +12,18 @@ export async function getStaticPaths() {
     },
     props: { page },
   }));
-
-  return { paths };
+  return paths;
 }
 
 const { page } = Astro.props;
 const { title, meta_title, description, image } = page.data;
 ---
 
-<Base title={title} meta_title={meta_title} description={description} image={image}>
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
   <Default data={page} />
 </Base>
